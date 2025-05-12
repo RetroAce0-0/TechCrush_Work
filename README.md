@@ -5,7 +5,7 @@ This project analyzes a full year's worth of sales data from a fictitious pizza 
 
 Here's a diagram of the architecture:
 
-![Project Architecture Diagram]((WhatsApp Image 2025-05-09 at 5.31.19 PM.jpeg))
+![Work Flowchart Diagram](https://github.com/RetroAce0-0/TechCrush_Work/blob/main/Flowchart%20for%20the%20Pizza%20Sales.png)
 
 ## Table 	         Field            	Description
 * orders          |	order_id 	        | Unique identifier for each order placed by a t...
