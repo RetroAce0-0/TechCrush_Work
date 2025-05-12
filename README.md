@@ -39,7 +39,7 @@ A data dictionary is also provided for reference.
 
 
 
-* Here's a diagram of the architecture:
+* Here's a diagram of the architecture and steps taken:
 
 ![Work Flowchart Diagram](https://github.com/RetroAce0-0/TechCrush_Work/blob/main/Flowchart%20for%20the%20Pizza%20Sales.png)
 
